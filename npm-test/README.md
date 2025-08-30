@@ -6,6 +6,6 @@ A simple npm package to greet people.
 ```bash
 npm install npm-test-yathish
 
-function name hello
+function name add
 
 takes name
